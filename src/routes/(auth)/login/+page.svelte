@@ -156,7 +156,7 @@
 			<Input
 				bind:value={email}
 				type="email"
-				class="bg-emerald-50 p-4"
+				class="bg-emerald-50 p-4 pl-8"
 				placeholder="Enter your email"
 				size="md"
 				required
